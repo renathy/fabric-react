@@ -1,3 +1,15 @@
+# Installation
+
+npm install --global yarn
+
+
+### Install Craco
+
+yarn add @craco/craco
+
+### Start project
+yarn start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
